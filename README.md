@@ -6,4 +6,4 @@ Hi, I'm Thai Truong 🤗
 
 ### a little bit about me
 <img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="230">
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="60"> <em><b>Nice to see you</b></b> :)</em>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> <em><b>Nice to see you</b></b> :)</em>
