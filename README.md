@@ -12,7 +12,7 @@ Fullname: Truong Nguyen Minh Thai
 + IT
 * Relaxing
 
-<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="150">
 <div>
-<img align= 'left' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> <em><b>Nice to see you</b></b> :)</em>
+<img align= 'left' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> <em><b> Nice to see you</b></b> :)</em>
 </div>
