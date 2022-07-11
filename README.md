@@ -1,7 +1,5 @@
-# about-me
+## about-me
 a little about me 🤗
-<html>
-<div>E-mail:
-<a href="mailto:minthai222@gmail.com?subject=Phản hồi&Body=Xin chào>minthai222@gmail.com</a>
-</div>
-</html>
+[![](https://img.shields.io/badge/Facebook-Nguyễn Minh Thái-white)](https://www.facebook.com/swan.uahage )
+[![](https://img.shields.io/badge/Gmail-minthai222%40gmail.com-black)](mailto:minthai222@gmail.com)
+
