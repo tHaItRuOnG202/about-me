@@ -5,4 +5,4 @@ Hi, I'm Thai Truong 🤗
 [![](https://img.shields.io/badge/Gmail-minthai222%40gmail.com-green)](mailto:minthai222@gmail.com)
 
 ### a little bit about me
-<img align='right' src="https://giphy.com/stickers/mrurbinaco-teacher-teachers-mr-urbina-kV0cEAFnweUPKOsXhh">" width="230">
+<img align='right' src="https://giphy.com/stickers/mrurbinaco-teacher-teachers-mr-urbina-kV0cEAFnweUPKOsXhh" width="230">
