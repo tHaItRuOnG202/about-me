@@ -1,5 +1,5 @@
 Hi, I'm Thai Truong 🤗
-<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="200">
 
 ### contact me
 [![](https://img.shields.io/badge/Facebook-NguyễnMinhThái-blue)](https://www.facebook.com/swan.uahage )
@@ -14,5 +14,5 @@ Fullname: Truong Nguyen Minh Thai
 * Relaxing
 
 <div>
-<img align= 'left' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> <em><b> Nice to see you</b></b> :)</em>
+<img align= 'left' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="50"> <em><b>    Nice to see you</b></b> :)</em>
 </div>
