@@ -1,5 +1,5 @@
 Hi, I'm Thai Truong 🤗
-<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/2hw8p8TpG8CgvuQOCT/giphy.gif" width="180">
 
 ### Contact me
 [![](https://img.shields.io/badge/Facebook-NguyễnMinhThái-blue)](https://www.facebook.com/swan.uahage )
@@ -9,8 +9,7 @@ Hi, I'm Thai Truong 🤗
 
 Truong Nguyen Minh Thai 👨‍💻
 
-* 20 years old
-- Libra ♎
+* 20 years old ♎
 - HCMCOU university
 + Information Technology
 * Relaxing
