@@ -9,7 +9,7 @@ Hi, I'm Thai Truong 🤗
 
 Truong Nguyen Minh Thai 👨‍💻
 
-* 20 years old ♎
+* 21 years old ♎
 - HCMCOU university
 + Information Technology
 * Relaxing
