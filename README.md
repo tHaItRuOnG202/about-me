@@ -16,5 +16,5 @@ Truong Nguyen Minh Thai 👨‍💻
 <div>
 <img align= 'left' src="https://media.giphy.com/media/s1JvHf7JPTtEdKe7Sb/giphy.gif" width="30">
   
-   <em><b font-size = '20px'> Nice to see you</b></b> :)</em>
+   <em><b font-size = '20px'> Nice to see you</b></b></em>
 </div>
